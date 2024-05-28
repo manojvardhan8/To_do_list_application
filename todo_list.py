@@ -1,4 +1,4 @@
-'''It is done by S.Manojj Vardhan
+'''It is done by S.Manoj Vardhan
 -------------TO DO LIST APPLICATION---------------------
 Define an empty list to store tasks
 tasks = []'''
